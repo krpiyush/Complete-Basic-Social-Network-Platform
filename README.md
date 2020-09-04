@@ -3,7 +3,7 @@ This project conatins all basic social media features like profile page, add fri
 
 NOTE:
 1. All the project files are in the project Data Folder.
-2. If you want to use forum, then extract all files in forum foler of forum.rar
+2. If you want to use forum, then extract forum.rar files in forum folder
 3. Configure db.php file according to your database
 
 Follow Below steps to Setup this Project:
